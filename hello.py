@@ -1,5 +1,5 @@
 # hello.py
 
-print("Hello world.")
+print("Hello Japan.")
 
 # add your code here
